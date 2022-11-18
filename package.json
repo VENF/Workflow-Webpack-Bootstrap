@@ -17,7 +17,7 @@
     "bootstrap": "^4.3.1",
     "file-loader": "^4.2.0",
     "font-awesome": "^4.7.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "imagemin-pngquant": "^5.0.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0",
@@ -35,6 +35,6 @@
     "mini-css-extract-plugin": "^0.8.0",
     "node-sass": "^4.12.0",
     "sass-loader": "^7.3.1",
-    "webpack-cli": "^3.3.7"
+    "webpack-cli": "^3.3.12"
   }
 }
